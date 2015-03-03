@@ -2087,4 +2087,36 @@ border: 1px solid #232323;
 background-color: #499bea;
 }
 
+/*dash 2.0*/
+.dashboard h1{
+    color: #499bea!important;
+}
+div.widget-stage.sectionBody {
+    color: #499bea!important;
+}
+div.widget-stage.sectionBody>
+table>
+tbody>
+tr {
+    background: #434343!important;
+}
+div.widget-stage.sectionBody>
+table>
+tbody>
+tr:hover {
+    background: #3a3a3a!important;
+}
+.widget-wrapper {
+  background: #434343!important;
+  border: 1px solid #3a3a3a!important;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  -moz-box-shadow:1px 1px 2px #333!important;
+-webkit-box-shadow:1px 1px 2px #333!important;
+box-shadow:1px 1px 2px #333!important;
 
+}
+
+div.widget-wrapper.alert.alert-warning {
+background: #fffacd!important;	
+}
